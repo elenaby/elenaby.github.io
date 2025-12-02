@@ -73,5 +73,3 @@ Developed an interactive computational tool that spatially resolves and analyzes
 - **Version Control:** Git, GitHub
 - **Collaboration Tools:** Slack, Jira, Trello
 
-### **Data Science & Analytics**
-- Statistical Analysis, Data Visualization, Cloud Computing
