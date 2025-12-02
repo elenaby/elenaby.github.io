@@ -2,3 +2,10 @@ theme: minima
 title: ML tales
 author: Elena Safrygina
 description: My personal blog
+
+github_username: elenaBy
+
+minima:
+  social_links:
+    - platform: github
+      user_url: "https://github.com/elenaBy"
