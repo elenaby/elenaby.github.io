@@ -2,6 +2,11 @@
 layout: page
 title: Education & Technical Skills
 permalink: /education/
+nav_order: 2           # Controls menu order
+nav_exclude: false     # Show in navigation
+description: "My academic background and technical expertise in AI, machine learning, and bioinformatics"
+author: ElenaBy
+date: 2024-01-15
 ---
 
 # Education & Technical Expertise
